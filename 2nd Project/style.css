@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.word-counter-container {
+    padding: 16px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+textarea {
+    display: block;
+
+    height: 30rem;
+    width: 100%;
+
+    border: 0.3rem solid black;
+    border-radius: 3.5rem;
+
+    padding: 3.5rem;
+    
+    font-size: 2rem;
+    line-height: 3;
+
+    margin: 0 auto;
+}
+
+button{
+    padding: 1rem 1rem;
+    margin: 2rem;
+
+    font-size: medium;
+    font-weight: 700;
+
+}
+
+
+
+  
